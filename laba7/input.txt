@@ -1,0 +1,5 @@
+Orwell;1984;1949;5;350.00
+Orwell;Animal Farm;1945;3;280.50
+Tolkien;The Hobbit;1937;4;420.00
+Bradbury;Fahrenheit 451;1953;2;310.00
+King;The Shining;1977;6;390.90

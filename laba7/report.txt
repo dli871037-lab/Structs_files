@@ -1,0 +1,8 @@
+Author query: Orwell
+Selected books (author;title;year;quantity;price):
+1. Orwell;1984;1949;5;350.00
+2. Orwell;Animal Farm;1945;3;280.50
+Selected book count: 2
+Total copies: 8
+Total cost: 2591.50
+Oldest book: Tolkien;The Hobbit;1937;4;420.00
